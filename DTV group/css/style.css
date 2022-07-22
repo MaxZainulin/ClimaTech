@@ -49,7 +49,7 @@ body {
 }
 .main_about-content{
 
-    background: url(/img/фото.jpg);
+    background: url(../img/bg-main.jpg);
     height: 642px;   
 }
 .main_about-info{
@@ -99,7 +99,7 @@ body {
     color: #FFFFFF;
 }
 .main_service-section{
-    background: url(/img/паттерн.svg);
+    background: url(../img/паттерн.svg);
 }
 .service-section_title h2{
     font-family: 'Play';
@@ -143,7 +143,7 @@ body {
     width: 733px;
 }
 .about_company-container{
-    background: url(/img/фото\ фон.jpg);
+    background: url(../img/фото\ фон.jpg);
     height: 835px;
 }
 .about_company-scope-services{
@@ -244,7 +244,7 @@ body {
     margin-right: 50px;
 }
 .section_order-container{
-    background: url(/img/form.jpg);
+    background: url(../img/form.jpg);
     height: 356px;
 }
 .section_order-title{
@@ -413,7 +413,7 @@ body {
 
 }
 .section_feedback-container{
-    background: url(/img/вопросы.jpg);
+    background: url(../img/вопросы.jpg);
     height: 720px;
 }
 .section_feedback-title{
